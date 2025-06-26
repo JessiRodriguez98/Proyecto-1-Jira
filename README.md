@@ -81,9 +81,4 @@ Todos los errores detectados durante las pruebas están documentados en Jira. Ca
 
 ✔️ Proyecto finalizado con documentación completa, pruebas ejecutadas y errores reportados.
 
----
 
-## 📎 Archivos incluidos
-
-- `proyecto_compartir_auto.xlsx` — Archivo principal con las listas de comprobación, casos de prueba y enlaces a Jira.
-- `capturas/` *(opcional)* — Evidencia visual de errores o comportamientos incorrectos detectados.
